@@ -42,8 +42,8 @@
   <h2 id="projects">Projects</h2>
   <div class="card mb-3">
     <div class="card-body">
-      <h5 class="card-title">Project 1</h5>
-      <p class="card-text">Description of project 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      <h5 class="card-title">Active Directory Home Lab | Add users with Powershell</h5>
+      <p class="card-text">I created a domain in VirtualBox with Active Directory and ran scrpit on Powershell to add new users. On a seperate VM, connected it to the domain and had the newly add users be able to login.</p>
       <a href="#" class="btn btn-primary">View Project</a>
     </div>
   </div>
